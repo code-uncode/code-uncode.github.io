@@ -165,7 +165,6 @@ h2::after {
 }
 
 .job-company::before {
-    content: "@";
     margin-right: 0.25rem;
     color: var(--text-muted);
     font-weight: 400;
